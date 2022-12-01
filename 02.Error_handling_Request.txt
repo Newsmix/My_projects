@@ -1,0 +1,19 @@
+POST https://api.sbermarket.ru/v2/simple-recs/v2/personal HTTP/1.1
+Host: api.sbermarket.ru
+AnonymousId: fb5dc34e-6ca7-4896-af62-12fd9ec3112d
+Accept: */*
+Authorization: Token token=ed600e4a9e8b8cbaca5fb844de282e3b
+Client-Id: SbermarketIOS
+Accept-Language: ru
+BackendUserUUID: f1e4dbb6-0fb3-4f64-a16e-917c026192ed
+Accept-Encoding: gzip, deflate, br
+Cache-Control: no-cache
+Client-Ver: 6.31.1
+User-Agent: Sbermarket/6.31.1 (iPhone; iOS 15.7)
+Content-Length: 391
+Connection: keep-alive
+Content-Type: application/json
+ScreenName: cart
+Client-Token: 1a8693e1530e4e68b23485d6da585ff1
+
+{"context":{"app":{"ext":{"store_id":0,"order_number":"R872486413","tenant_id":0},"domain":"ru.instamart"},"user":{"id":"f1e4dbb6-0fb3-4f64-a16e-917c026192ed","geo":{"lat":59.912960830000003,"lon":30.292433760000002},"ext":{"appsflyer_id":"1667141217220-5346748","anonymous_id":"fb5dc34e-6ca7-4896-af62-12fd9ec3112d"}}},"ext":{"place":"cart","paging":{"limit":12,"max_count":48,"offset":0}}}

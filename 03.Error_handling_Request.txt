@@ -1,0 +1,10 @@
+GET https://online.sberbank.ru/CSAFront/api/oidc/sbid?client_id=09a6f842-ed4d-4b42-a925-3bc75e77335e HTTP/1.1
+Host: online.sberbank.ru
+Origin: https://sbermarket.ru
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6,2 Mobile/15E148 Safari/604.1
+Accept-Language: ru
+Referer: https://sbermarket.ru/
+Accept-Encoding: gzip, deflate, br
+

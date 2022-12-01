@@ -1,0 +1,15 @@
+GET https://api.sbermarket.ru/v2/retailers?with_stores_total=1&shipping_method=pickup&city_id=42 HTTP/1.1
+Host: api.sbermarket.ru
+Accept: */*
+Client-Id: SbermarketIOS
+Accept-Language: ru
+BackendUserUUID: 4a29348f-ed3b-4e01-a5cf-61f1f3aae01e
+Accept-Encoding: gzip, deflate, br
+Cache-Control: no-cache
+Client-Ver: 6.31.1
+User-Agent: Sbermarket/6.31.1 (iPhone; iOS 15.7)
+Connection: keep-alive
+AnonymousId: fb5dc34e-6ca7-4896-af62-12fd9ec3112d
+ScreenName: unknown
+Client-Token: 1a8693e1530e4e68b23485d6da585ff1
+

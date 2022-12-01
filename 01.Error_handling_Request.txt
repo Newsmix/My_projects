@@ -1,0 +1,19 @@
+POST https://api.sbermarket.ru/v2/orders/R820558661/promotions HTTP/1.1
+Host: api.sbermarket.ru
+AnonymousId: fb5dc34e-6ca7-4896-af62-12fd9ec3112d
+Accept: */*
+Authorization: Token token=35a59bdf28f5b634220729c37dfa8c5a
+Client-Id: SbermarketIOS
+Accept-Language: ru
+BackendUserUUID: 4a29348f-ed3b-4e01-a5cf-61f1f3aae01e
+Accept-Encoding: gzip, deflate, br
+Cache-Control: no-cache
+Client-Ver: 6.31.1
+User-Agent: Sbermarket/6.31.1 (iPhone; iOS 15.7)
+Content-Length: 36
+Connection: keep-alive
+Content-Type: application/json
+ScreenName: unknown
+Client-Token: 1a8693e1530e4e68b23485d6da585ff1
+
+{"promotion_code":"fgkkiyrdhjyfhjh"}

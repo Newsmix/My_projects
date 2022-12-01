@@ -1,0 +1,9 @@
+GET https://www.fiddler2.com/UpdateCheck.aspx?isBeta=False HTTP/1.1
+User-Agent: Fiddler/5.0.20211.51073 (.NET 4.8; WinNT 10.0.19044.0; ru-RU; 8xAMD64; Auto Update; Full Instance; Extensions: APITesting, AutoSaveExt, EventLog, FiddlerOrchestraAddon, HostsFile, RulesTab2, SAZClipboardFactory, SimpleFilter, Timeline)
+Pragma: no-cache
+Host: www.fiddler2.com
+Accept-Language: ru-RU
+Referer: http://fiddler2.com/client/TELE/5.0.20211.51073
+Accept-Encoding: gzip, deflate
+Connection: close
+

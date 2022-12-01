@@ -1,0 +1,9 @@
+GET https://api-maps.yandex.ru/services/search//v2/?callback=id_16676581182654305032&text=59.91292913375632%2C30.29298464056775&format=json&rspn=0&lang=ru_RU&token=445db412edd08bf71465133912bbb950&type=geo&properties=addressdetails&geocoder_sco=latlong&origin=jsapi2Geocoder&apikey=47042de8-7735-4996-8e28-7cd4a1caeb11 HTTP/1.1
+Host: api-maps.yandex.ru
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6,2 Mobile/15E148 Safari/604.1
+Accept-Language: ru
+Referer: https://sbermarket.ru/
+Accept-Encoding: gzip, deflate, br
+
